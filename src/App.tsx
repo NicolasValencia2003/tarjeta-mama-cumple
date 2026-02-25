@@ -131,7 +131,7 @@ export default function App() {
           <div className="text-base md:text-lg leading-relaxed text-center space-y-4">
             {/* TODO: escribe tu mensaje aquí */}
             <p>Mami,</p>
-            <p>Hoy, te hago esta tarjeta para desearte un muy feliz cumpleaños! Eres la mejor mamá del mundo y me siento afortunado de tenerte a mi lado. Gracias por todo el apoyo y el aliento que me das a diario, sin eso, no seria la persona que soy hoy.</p>
+            <p>Hoy, te hago esta tarjeta para desearte un muy feliz cumpleaños! Eres la mejor mamá del mundo y me siento MUY afortunado de tenerte a mi lado. Gracias por todo el apoyo y el aliento que me das a diario, sin eso, no seria la persona que soy hoy.</p>
             <p>Te amo muchisimo! ❤️</p>
             <p className="mt-6 font-[Lora] font-bold text-right text-sm text-[#e84545]">Con cariño,<br />Nico</p>
           </div>
